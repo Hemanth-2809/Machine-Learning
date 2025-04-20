@@ -10,7 +10,7 @@ This repository contains documentation and analytical resources related to the *
 - **`Introduction to fNIRS and TUFT Dataset Acquisition Details.docx`**  
   Overview of the TUFT dataset, background on fNIRS, study purpose, task methodology, data collected, and ethical considerations.
 
-- **`TUFT_Dataset_Detailed_Report.docx`**  
+- **`TUFT_Dataset_DetailedReport.docx`**  
   Detailed explanation of the structure and purpose of each file in the dataset (e.g., `fnirs_train.csv`, `task_result_train_*.txt`, etc.).
 
 ---
