@@ -35,9 +35,9 @@ for nii_path in input_folder.glob("*.nii*"):
         output_path = output_folder / f"{subject_id}.nii"
         nib.save(stripped_img, str(output_path))
 
-        print(f"✅ Saved: {output_path.name}")
+        print(f"Saved: {output_path.name}")
 
     except Exception as e:
         print(f"❌ Failed to process {nii_path.name}: {e}")
 
-print("\n🎉 All files processed.")
+print("\n All files processed.")
